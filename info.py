@@ -103,9 +103,13 @@ LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-100')) #If Anyone Set You
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://telegra.ph/file/9ecc5d6e4df5b83424896.jpg")
 
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/movieminister_tutorial/3")   # Tutorial link for verification
+
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/movieminister_tutorial/3")   # second link for verification
+
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/movieminister_tutorial/3")   # Third link for verification
+
 # Verification (Must Fill All Veriables. Else You Got Error
+
 SHORTENER_API = environ.get("SHORTENER_API", "8d40c97557ee1b419d9dbb416727e5eb979fc082") # Shortener API key
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "softurl.in") # Shortener website
 
