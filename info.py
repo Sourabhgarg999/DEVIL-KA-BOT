@@ -108,8 +108,6 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/movieminister_tutorial/3")   # 
 SHORTENER_API = environ.get("SHORTENER_API", "8d40c97557ee1b419d9dbb416727e5eb979fc082") # Shortener API key
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "softurl.in") # Shortener website
 
-
-
 # ============================
 # Channel & Group Links Configuration
 # ============================
